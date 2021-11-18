@@ -105,6 +105,10 @@ select{
 .animate__heartBeat{
     --animate-duration: 2.5s;
 }
+.animate__heartBeat:hover{
+    animation:rubberBand;
+    animation-duration: 2.5s;
+}
 fieldset{
     position:relative;
     left:3px;
