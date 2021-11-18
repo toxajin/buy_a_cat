@@ -54,7 +54,7 @@ nav li
     border-radius: 2.5em;
     background: rgb(240,240,240);
     box-shadow:  12px 12px 24px #bebebe,
-             -12px -12px 24px #ffffff;
+             -12px -12px 24px #bebebe;
     list-style: none;
     font-size:1.2em;
     display: flex;
@@ -62,7 +62,7 @@ nav li
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    width: 10em;;
+    width: 10em;
 }
 body{
     background:azure;
